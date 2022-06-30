@@ -2,12 +2,17 @@ const express = require("express");
 const serverless = require("serverless-http");
 const { masjid } = require("./data/masjid");
 const { ustadz } = require("./data/ustadz");
+const { taklim } = require("./data/taklim");
 
 const app = express();
 const router = express.Router();
 
 router.get("/ustadz", (req, res) => {
   res.json(ustadz);
+});
+
+router.get("/taklim", (req, res) => {
+  res.json(taklim);
 });
 
 router.get("/masjid", (req, res) => {
