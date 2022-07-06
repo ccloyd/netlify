@@ -1,4 +1,4 @@
-export const masjid = [
+export const talim = [
   {
     id: 1,
     name: "Kitab Minhajus Salikin wa Taudhihul Fiqhi fid Diin",
@@ -6,6 +6,7 @@ export const masjid = [
         id: "1",
         name: "Masjid Luqmanul Hakim"},
     waktu: "18:30",
+    hari: "senin",
     data_ustadz: {
         id: "9",
         name: "Ustadz Ruwaifi Rahmat"},
@@ -17,6 +18,7 @@ export const masjid = [
     data_tempat: {
         id: "1",
         name: "Masjid Luqmanul Hakim"},
+    hari: "senin",
     waktu: "18:30",
 	  data_ustadz: {
         id: "1",
@@ -29,6 +31,7 @@ export const masjid = [
     data_tempat: {
         id: "2",
         name: "Masjid Al Ikhlas Pannampu"},
+    hari: "senin",
     waktu: "18:30",
 	  data_ustadz: {
         id: "2",
@@ -41,6 +44,7 @@ export const masjid = [
     data_tempat: {
         id: "3",
         name: "Masjid Agung 45"},
+    hari: "senin",
     waktu: "18:30",
 	  data_ustadz: {
         id: "7",
@@ -53,6 +57,7 @@ export const masjid = [
     data_tempat: {
         id: "4",
         name: "Masjid Khadijah Sudiang"},
+    hari: "senin",
     waktu: "18:30",
 	  data_ustadz: {
         id: "12",
@@ -65,6 +70,7 @@ export const masjid = [
     data_tempat: {
         id: "5",
         name: "Masjid Ar-Risalah"},
+    hari: "selasa",
     waktu: "16:00",
 	  data_ustadz: {
         id: "6",
@@ -77,6 +83,7 @@ export const masjid = [
     data_tempat: {
         id: "6",
         name: "Masjid Nurul Bahri"},
+    hari: "selasa",
     waktu: "18:30",
 	  data_ustadz: {
         id: "2",
@@ -89,6 +96,7 @@ export const masjid = [
     data_tempat: {
         id: "7",
         name: "Mushollah Fakultas Kedokteran dan Ilmu Kedokteran Kampus II Uin Alauddin Samata"},
+    hari: "rabu",
     waktu: "16:00",
 	  data_ustadz: {
         id: "5",
@@ -101,6 +109,7 @@ export const masjid = [
     data_tempat: {
         id: "5",
         name: "Masjid Ar-Risalah"},
+    hari: "rabu",
     waktu: "12:30",
 	  data_ustadz: {
         id: "10",
@@ -113,6 +122,7 @@ export const masjid = [
     data_tempat: {
         id: "8",
         name: "Mushollah Trans Studio Mall"},
+    hari: "rabu",
     waktu: "12:30",
 	  data_ustadz: {
         id: "12",
@@ -125,6 +135,7 @@ export const masjid = [
     data_tempat: {
         id: "9",
         name: "Masjid Nurul Falah Pari'risi"},
+    hari: "rabu",
     waktu: "18:30",
     data_ustadz: {
         id: "10",
@@ -136,7 +147,8 @@ export const masjid = [
     name: "Matan Abu Syuja'",
     data_tempat: {
         id: "2",
-		name: "Masjid Al Ikhlas Pannampu"},
+        name: "Masjid Al Ikhlas Pannampu"},
+    hari: "rabu",
     waktu: "18:30",
     data_ustadz: {
         id: "1",
@@ -149,6 +161,7 @@ export const masjid = [
     data_tempat: {
         id: "10",
         name: "Masjid Baitul"},
+    hari: "rabu",
     waktu: "18:30",
     data_ustadz: {
         id: "5",
@@ -161,6 +174,7 @@ export const masjid = [
     data_tempat: {
         id: "4",
         name: "Masjid Khadijah Sudiang"},
+    hari: "rabu",
     waktu: "18:30",
     data_ustadz: {
         id: "9",
@@ -173,6 +187,7 @@ export const masjid = [
     data_tempat: {
         id: "11",
         name: "Masjid Graha Jannah"},
+    hari: "kamis",
     waktu: "16:00",
     data_ustadz: {
         id: "11",
@@ -185,6 +200,7 @@ export const masjid = [
     data_tempat: {
         id: "5",
         name: "Masjid Ar-Risalah"},
+    hari: "kamis",
     waktu: "16:00",
     data_ustadz: {
         id: "1",
@@ -197,6 +213,7 @@ export const masjid = [
     data_tempat: {
         id: "12",
         name: "Mushollah Royal Apartemen (Belakang Ramayana Pettarani)"},
+    hari: "kamis",
     waktu: "18:30",
     data_ustadz: {
         id: "12",
@@ -209,6 +226,7 @@ export const masjid = [
     data_tempat: {
         id: "13",
         name: "Masjid Baiturrahim"},
+    hari: "jumat",
     waktu: "18:30",
     data_ustadz: {
         id: "5",
@@ -221,6 +239,7 @@ export const masjid = [
     data_tempat: {
         id: "1",
         name: "Masjid Luqmanul Hakim"},
+    hari: "jumat",
     waktu: "18:30",
     data_ustadz: {
         id: "4",
@@ -233,6 +252,7 @@ export const masjid = [
     data_tempat: {
         id: "12",
         name: "Mushollah Royal Apartemen (Belakang Ramayana Pettarani)"},
+    hari: "jumat",
     waktu: "18:30",
     data_ustadz: {
         id: "9",
@@ -245,6 +265,7 @@ export const masjid = [
     data_tempat: {
         id: "14",
         name: "Masjid Daarul Falah"},
+    hari: "jumat",
     waktu: "18:30",
     data_ustadz: {
         id: "9",
@@ -257,6 +278,7 @@ export const masjid = [
     data_tempat: {
         id: "15",
         name: "Masjid Babus Salam"},
+    hari: "jumat",
     waktu: "18:30",
     data_ustadz: {
         id: "8",
@@ -269,6 +291,7 @@ export const masjid = [
     data_tempat: {
         id: "4",
         name: "Masjid Khadijah Sudiang"},
+    hari: "jumat",
     waktu: "18:30",
     data_ustadz: {
         id: "3",
@@ -281,6 +304,7 @@ export const masjid = [
     data_tempat: {
         id: "1",
         name: "Masjid Luqmanul Hakim"},
+    hari: "sabtu",
     waktu: "18:30",
     data_ustadz: {
         id: "3",
@@ -293,6 +317,7 @@ export const masjid = [
     data_tempat: {
         id: "16",
         name: "Mushollah Al Haudh Ratulangi"},
+    hari: "minggu",
     waktu: "16:00",
     data_ustadz: {
         id: "8",
@@ -305,6 +330,7 @@ export const masjid = [
     data_tempat: {
         id: "17",
         name: "Masjid Nurul Iman"},
+    hari: "minggu",
     waktu: "16:00",
     data_ustadz: {
         id: "7",
@@ -317,6 +343,7 @@ export const masjid = [
     data_tempat: {
         id: "18",
         name: "Masjid Darur Rahmah"},
+    hari: "minggu",
     waktu: "18:30",
     data_ustadz: {
         id: "10",
@@ -329,6 +356,7 @@ export const masjid = [
     data_tempat: {
         id: "19",
         name: "Masjid Jannatul Firdaus"},
+    hari: "minggu",
     waktu: "09:30",
     data_ustadz: {
         id: "7",
@@ -341,6 +369,7 @@ export const masjid = [
     data_tempat: {
         id: "19",
         name: "Masjid Jannatul Firdaus"},
+    hari: "minggu",
     waktu: "11:00",
     data_ustadz: {
         id: "12",
@@ -353,6 +382,7 @@ export const masjid = [
     data_tempat: {
         id: "4",
         name: "Masjid Khadijah Sudiang"},
+    hari: "minggu",
     waktu: "09:00",
     data_ustadz: {
         id: "9",
@@ -365,6 +395,7 @@ export const masjid = [
     data_tempat: {
         id: "4",
         name: "Masjid Khadijah Sudiang"},
+    hari: "minggu",
     waktu: "18:30",
     data_ustadz: {
         id: "5",
