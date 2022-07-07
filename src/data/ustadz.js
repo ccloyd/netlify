@@ -4,6 +4,15 @@ export const ustadz = [
     name: "Ustadz Abdul Mu'thi",
     phone: "+62 812-5422-4146",
     picture: "-",
+    talim: [
+      {
+        id: 1,
+        name: "",
+        tempat: "",
+        hari: "",
+        jam: "",
+      },
+    ],
   },
   {
     id: 2,
