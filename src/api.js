@@ -1,4 +1,5 @@
 const express = require("express");
+const path = require("path");
 const serverless = require("serverless-http");
 const { masjid } = require("./data/masjid");
 const { ustadz } = require("./data/ustadz");
@@ -43,5 +44,7 @@ router.get("/", (req, res) => {
 });
 
 app.use("/.netlify/functions/api", router);
+
+app.use(express.static(path.join(__dirname, "/public")));
 
 module.exports.handler = serverless(app);
