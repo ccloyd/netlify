@@ -313,7 +313,7 @@ export const talim = [
   },
   {
     id: 25,
-    name: "Ttsalatsatul Ushul",
+    name: "Tsalatsatul Ushul",
     data_tempat: {
         id: "16",
         name: "Mushollah Al Haudh Ratulangi"},
@@ -326,7 +326,7 @@ export const talim = [
   },
   {
     id: 26,
-    name: "Ttsalatsatul Ushul",
+    name: "Tsalatsatul Ushul",
     data_tempat: {
         id: "17",
         name: "Masjid Nurul Iman"},
