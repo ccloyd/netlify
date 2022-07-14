@@ -3,7 +3,7 @@ export const ustadz = [
     id: 1,
     name: "Ustadz Abdul Mu'thi",
     phone: "+62 812-5422-4146",
-    picture: "Ustadz_Abdul_Muthi.jpg",
+    picture: "https://ik.imagekit.io/cloyd/Ustadz_Abdul_Muthi_hPTU6a84F.jpg",
     talim: [
       {
         id: 2,
@@ -32,7 +32,7 @@ export const ustadz = [
     id: 2,
     name: "Ustadz Ahmad Alfian",
     phone: "+62 852-3652-3991",
-    picture: "Ustadz_Ahmad_Alfian.jpg",
+    picture: "https://ik.imagekit.io/cloyd/Ustadz_Ahmad_Alfian_hOLr8I_VVa.jpg",
     talim: [
       {
         id: 3,
@@ -54,7 +54,7 @@ export const ustadz = [
     id: 3,
     name: "Ustadz Ahmad Khodim",
     phone: "+62 812-3365-2766",
-    picture: "Ustadz_Ahmad_Khodim.jpg",
+    picture: "https://ik.imagekit.io/cloyd/Ustadz_Ahmad_Khodim_DmVi0rIzT.jpg",
     talim: [
       {
         id: 23,
@@ -76,7 +76,7 @@ export const ustadz = [
     id: 4,
     name: "Ustadz Ammar",
     phone: "+62 823-1969-8093",
-    picture: "Ustadz_Ammar.jpg",
+    picture: "https://ik.imagekit.io/cloyd/Ustadz_Ammar_-Q1K6c4lI.jpg",
     talim: [
       {
         id: 19,
@@ -91,7 +91,7 @@ export const ustadz = [
     id: 5,
     name: "Ustadz Ashari Asri",
     phone: "+62 813-4252-3635",
-    picture: "Ustadz_Ashari Asri.jpg",
+    picture: "https://ik.imagekit.io/cloyd/Ustadz_Ashari_Asri_9qmAWDvsb9.jpg",
     talim: [
       {
         id: 8,
@@ -127,7 +127,7 @@ export const ustadz = [
     id: 6,
     name: "Ustadz Harits Marekar",
     phone: "+62 812-3136-3631",
-    picture: "Ustadz_Harits_Marekar.jpg",
+    picture: "https://ik.imagekit.io/cloyd/Ustadz_Harits_Marekar_a0YQL98cvH.jpg",
     talim: [
       {
         id: 6,
@@ -142,7 +142,7 @@ export const ustadz = [
     id: 7,
     name: "Ustadz Muhammad Rijal",
     phone: "+62 852-5582-8938",
-    picture: "Ustadz_Muhammad_Rijal.jpg",
+    picture: "https://ik.imagekit.io/cloyd/Ustadz_Muhammad_Rijal_vx757jjFk6.jpg",
     talim: [
       {
         id: 4,
@@ -171,7 +171,7 @@ export const ustadz = [
     id: 8,
     name: "Ustadz Muhammad Umar As-Sewed",
     phone: "+62 821-2727-0002",
-    picture: "Ustadz_Muhammad_Umar_As-Sewed.jpg",
+    picture: "https://ik.imagekit.io/cloyd/Ustadz_Muhammad_Umar_As-Sewed_3JzP8aPaEw.jpg",
     talim: [
       {
         id: 22,
@@ -193,7 +193,7 @@ export const ustadz = [
     id: 9,
     name: "Ustadz Ruwaifi Rahmat",
     phone: "+62 812-8111-5434",
-    picture: "Ustadz_Ruwaifi_Rahmat.jpg",
+    picture: "https://ik.imagekit.io/cloyd/Ustadz_Ruwaifi_Rahmat_bmKfq11cL1.jpg",
     talim: [
       {
         id: 1,
@@ -236,7 +236,7 @@ export const ustadz = [
     id: 10,
     name: "Ustadz Sa'ad Baisa",
     phone: "+62 852-4807-6959",
-    picture: "Ustadz_Saad_Baisa.jpg",
+    picture: "https://ik.imagekit.io/cloyd/Ustadz_Saad_Baisa_5TV4PUKEPZ.jpg",
     talim: [
       {
         id: 9,
@@ -265,7 +265,7 @@ export const ustadz = [
     id: 11,
     name: "Ustadz Sarbini",
     phone: "+62 852-9206-4041",
-    picture: "-",
+    picture: "https://ik.imagekit.io/cloyd/default-image.jpg",
     talim: [
       {
         id: 15,
@@ -280,7 +280,7 @@ export const ustadz = [
     id: 12,
     name: "Ustadz Abu Abdirrahman Thariq",
     phone: "+62 813-4380-8951",
-    picture: "Ustadz_Abu_Abdirrahman_Thariq.jpg",
+    picture: "https://ik.imagekit.io/cloyd/Ustadz_Abu_Abdirrahman_Thariq_kEulQuzoA.jpg",
     talim: [
       {
         id: 5,

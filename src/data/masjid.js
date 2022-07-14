@@ -10,7 +10,7 @@ export const masjid = [
       },
     },
     phone: "081347730863 (Abu Fadhil)",
-    picture: "Masjid_Luqmanul_Hakim.jpg",
+    picture: "https://ik.imagekit.io/cloyd/Masjid_Luqmanul_Hakim_Uq-JMSDakD.jpg",
   },
   {
     id: 2,
@@ -23,7 +23,7 @@ export const masjid = [
       },
     },
     phone: "-",
-    picture: "Masjid_Baitul_Aqsha.jpeg",
+    picture: "https://ik.imagekit.io/cloyd/Masjid_Baitul_Aqsha_1947QnJuII.jpeg",
   },
   {
     id: 3,
@@ -36,7 +36,7 @@ export const masjid = [
       },
     },
     phone: "-",
-    picture: "Masjid_Agung_45.jpg",
+    picture: "https://ik.imagekit.io/cloyd/Masjid_Agung_45_m9GxLzom3G.jpg",
   },
   {
     id: 4,
@@ -49,7 +49,7 @@ export const masjid = [
       },
     },
     phone: "085205050999",
-    picture: "Masjid_Khadijah_Sudiang.jpg",
+    picture: "https://ik.imagekit.io/cloyd/Masjid_Khadijah_Sudiang_Ne15RgQCO.jpg",
   },
   {
     id: 5,
@@ -63,7 +63,7 @@ export const masjid = [
       },
     },
     phone: "-",
-    picture: "Masjid_Ar-Risalah.jpg",
+    picture: "https://ik.imagekit.io/cloyd/Masjid_Ar-Risalah_GfLNlfGu0i.jpg",
   },
   {
     id: 6,
@@ -76,7 +76,7 @@ export const masjid = [
       },
     },
     phone: "-",
-    picture: "Masjid_Nurul_Bahri.jpg",
+    picture: "https://ik.imagekit.io/cloyd/Masjid_Nurul_Bahri_OaF_t70dZM.jpg",
   },
   {
     id: 7,
@@ -89,7 +89,7 @@ export const masjid = [
       },
     },
     phone: "085299956345 (Ikhsan), 08135500156 (Pak Rusdi)",
-    picture: "Mushollah_Fakultas_Kedokteran_dan_Ilmu_Kedokteran_Kampus_II_Uin_Alauddin_Samata.jpg",
+    picture: "https://ik.imagekit.io/cloyd/Mushollah_Fakultas_Kedokteran_dan_Ilmu_Kedokteran_Kampus_II_Uin_Alauddin_Samata__b6IiyXiLm.jpg",
   },
   {
     id: 8,
@@ -102,7 +102,7 @@ export const masjid = [
       },
     },
     phone: "082347770632 (Hasrullah),085395455156 (Supriadi)",
-    picture: "Mushollah_Trans_Studio_Mall.jpg",
+    picture: "https://ik.imagekit.io/cloyd/Mushollah_Trans_Studio_Mall_Jbf31-bIZ.jpg",
   },
   {
     id: 9,
@@ -115,7 +115,7 @@ export const masjid = [
       },
     },
     phone: "082349561546",
-    picture: "Masjid_Nurul_Falah_Pari'risi.jpg",
+    picture: "https://ik.imagekit.io/cloyd/Masjid_Nurul_Falah_Pari_risi_xh3dl-zjwd.jpg",
   },
   {
     id: 10,
@@ -128,7 +128,7 @@ export const masjid = [
       },
     },
     phone: "082394741414",
-    picture: "Masjid_Baitul_Karim.jpg",
+    picture: "https://ik.imagekit.io/cloyd/Masjid_Baitul_Karim_aIB8mFTofD.jpg",
   },
   {
     id: 11,
@@ -141,7 +141,7 @@ export const masjid = [
       },
     },
     phone: "08991887777",
-    picture: "Masjid_Amirul_Mukminin.jpeg",
+    picture: "https://ik.imagekit.io/cloyd/Masjid_Amirul_Mukminin_0cMS7xHQp4.jpeg",
   },
   {
     id: 12,
@@ -154,7 +154,7 @@ export const masjid = [
       },
     },
     phone: "-",
-    picture: "Masjid_Maradekaya.jpeg",
+    picture: "https://ik.imagekit.io/cloyd/Masjid_Maradekaya_5aMTKwQ5CN.jpeg",
   },
   {
     id: 13,
@@ -167,7 +167,7 @@ export const masjid = [
       },
     },
     phone: "089687156736, 085824821741",
-    picture: "Masjid_Baiturrahim.jpg",
+    picture: "https://ik.imagekit.io/cloyd/Masjid_Baiturrahim_nKSS3wOf6Z.jpg",
   },
   {
     id: 14,
@@ -180,7 +180,7 @@ export const masjid = [
       },
     },
     phone: "082190655492 (Akh Muhammad), 082193188713 (Abu Waqi)",
-    picture: "Masjid_Dar_Al-Falah.jpg",
+    picture: "https://ik.imagekit.io/cloyd/Masjid_Dar_Al-Falah_cIxTorucD9.jpg",
   },
   {
     id: 15,
@@ -193,7 +193,7 @@ export const masjid = [
       },
     },
     phone: "082349981945 (Tri Abu Zakariyyah), 082344666103 (Akbar)",
-    picture: "Masjid_Babus_Salam.jpg",
+    picture: "https://ik.imagekit.io/cloyd/Masjid_Babus_Salam_SW5q7yV9KY.jpg",
   },
   {
     id: 16,
@@ -206,7 +206,7 @@ export const masjid = [
       },
     },
     phone: "082199116067",
-    picture: "Masjid_Nurul_Wathan.jpeg",
+    picture: "https://ik.imagekit.io/cloyd/Masjid_Nurul_Wathan_lgc-Eo2Y5Y.jpeg",
   },
   {
     id: 17,
@@ -219,7 +219,7 @@ export const masjid = [
       },
     },
     phone: "081342351283 (Akhiruddin), 081355929448 (Syahrul)",
-    picture: "Masjid_Nurul_Iman_Batua.jpg",
+    picture: "https://ik.imagekit.io/cloyd/Masjid_Nurul_Iman_Batua_aJXk9by5Cr.jpg",
   },
   {
     id: 18,
@@ -232,7 +232,7 @@ export const masjid = [
       },
     },
     phone: "085211627969",
-    picture: "Masjid_Darur_Rahmah.jpg",
+    picture: "https://ik.imagekit.io/cloyd/Masjid_Darur_Rahmah_xENM9sJ1Q-.jpg",
   },
   {
     id: 19,
@@ -245,6 +245,6 @@ export const masjid = [
       },
     },
     phone: "-",
-    picture: "Masjid_Jannatul_Firdaus.jpg",
+    picture: "https://ik.imagekit.io/cloyd/Masjid_Jannatul_Firdaus_iOTI4zp4MZ.jpg",
   },
 ];
