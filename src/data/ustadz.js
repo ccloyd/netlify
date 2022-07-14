@@ -15,7 +15,7 @@ export const ustadz = [
       {
         id: 12,
         name: "Matan Abu Syuja'",
-        tempat: "Masjid Al Ikhlas Pannampu",
+        tempat: "Masjid Baitul Aqsha",
         hari: "rabu",
         jam: "18:30",
       },
@@ -37,7 +37,7 @@ export const ustadz = [
       {
         id: 3,
         name: "Kitab Syahrussunnah",
-        tempat: "Masjid Al Ikhlas Pannampu",
+        tempat: "Masjid Baitul Aqsha",
         hari: "senin",
         jam: "18:30",
       },
@@ -103,7 +103,7 @@ export const ustadz = [
       {
         id: 13,
         name: "Fathul Majid",
-        tempat: "Masjid Baitul",
+        tempat: "Masjid Baitul Karim",
         hari: "rabu",
         jam: "18:30",
       },
@@ -154,7 +154,7 @@ export const ustadz = [
       {
         id: 26,
         name: "Tsalatsatul Ushul",
-        tempat: "Masjid Nurul Iman",
+        tempat: "Masjid Nurul Iman Batua",
         hari: "minggu",
         jam: "16:00",
       },
@@ -183,7 +183,7 @@ export const ustadz = [
       {
         id: 25,
         name: "Tsalatsatul Ushul",
-        tempat: "Mushollah Al Haudh Ratulangi",
+        tempat: "Masjid Nurul Wathan",
         hari: "minggu",
         jam: "16:00",
       },
@@ -212,14 +212,14 @@ export const ustadz = [
       {
         id: 20,
         name: "50 Hadits Pondasi Islam",
-        tempat: "Mushollah Royal Apartemen (Belakang Ramayana Pettarani)",
+        tempat: "Masjid Maradekaya",
         hari: "jumat",
         jam: "18:30",
       },
       {
         id: 21,
         name: "Kitab Ahkam Al Udhiyah wa Adz Dzakah",
-        tempat: "Masjid Daarul Falah",
+        tempat: "Masjid Dar Al-Falah",
         hari: "jumat",
         jam: "18:30",
       },
@@ -270,7 +270,7 @@ export const ustadz = [
       {
         id: 15,
         name: "Pembahasan Sholat",
-        tempat: "Masjid Graha Jannah",
+        tempat: "Masjid Amirul Mukminin",
         hari: "kamis",
         jam: "16:00",
       },
@@ -299,7 +299,7 @@ export const ustadz = [
       {
         id: 17,
         name: "Al Aqidah Al Wasithiyah",
-        tempat: "Mushollah Royal Apartemen (Belakang Ramayana Pettarani)",
+        tempat: "Masjid Maradekaya",
         hari: "kamis",
         jam: "18:30",
       },

@@ -30,7 +30,7 @@ export const talim = [
     name: "Kitab Syahrussunnah",
     data_tempat: {
         id: "2",
-        name: "Masjid Al Ikhlas Pannampu"},
+        name: "Masjid Baitul Aqsha"},
     hari: "senin",
     waktu: "18:30",
 	  data_ustadz: {
@@ -147,7 +147,7 @@ export const talim = [
     name: "Matan Abu Syuja'",
     data_tempat: {
         id: "2",
-        name: "Masjid Al Ikhlas Pannampu"},
+        name: "Masjid Baitul Aqsha"},
     hari: "rabu",
     waktu: "18:30",
     data_ustadz: {
@@ -160,7 +160,7 @@ export const talim = [
     name: "Fathul Majid",
     data_tempat: {
         id: "10",
-        name: "Masjid Baitul"},
+        name: "Masjid Baitul Karim"},
     hari: "rabu",
     waktu: "18:30",
     data_ustadz: {
@@ -186,7 +186,7 @@ export const talim = [
     name: "Pembahasan Sholat",
     data_tempat: {
         id: "11",
-        name: "Masjid Graha Jannah"},
+        name: "Masjid Amirul Mukminin"},
     hari: "kamis",
     waktu: "16:00",
     data_ustadz: {
@@ -212,7 +212,7 @@ export const talim = [
     name: "Al Aqidah Al Wasithiyah",
     data_tempat: {
         id: "12",
-        name: "Mushollah Royal Apartemen (Belakang Ramayana Pettarani)"},
+        name: "Masjid Maradekaya"},
     hari: "kamis",
     waktu: "18:30",
     data_ustadz: {
@@ -251,7 +251,7 @@ export const talim = [
     name: "50 Hadits Pondasi Islam",
     data_tempat: {
         id: "12",
-        name: "Mushollah Royal Apartemen (Belakang Ramayana Pettarani)"},
+        name: "Masjid Maradekaya"},
     hari: "jumat",
     waktu: "18:30",
     data_ustadz: {
@@ -264,7 +264,7 @@ export const talim = [
     name: "Kitab Ahkam Al Udhiyah wa Adz Dzakah",
     data_tempat: {
         id: "14",
-        name: "Masjid Daarul Falah"},
+        name: "Masjid Dar Al-Falah"},
     hari: "jumat",
     waktu: "18:30",
     data_ustadz: {
@@ -316,7 +316,7 @@ export const talim = [
     name: "Tsalatsatul Ushul",
     data_tempat: {
         id: "16",
-        name: "Mushollah Al Haudh Ratulangi"},
+        name: "Masjid Nurul Wathan"},
     hari: "minggu",
     waktu: "16:00",
     data_ustadz: {
@@ -329,7 +329,7 @@ export const talim = [
     name: "Tsalatsatul Ushul",
     data_tempat: {
         id: "17",
-        name: "Masjid Nurul Iman"},
+        name: "Masjid Nurul Iman Batua"},
     hari: "minggu",
     waktu: "16:00",
     data_ustadz: {

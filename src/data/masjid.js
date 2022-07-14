@@ -10,20 +10,20 @@ export const masjid = [
       },
     },
     phone: "081347730863 (Abu Fadhil)",
-    picture: "-",
+    picture: "Masjid_Luqmanul_Hakim.jpg",
   },
   {
     id: 2,
-    name: "Masjid Al Ikhlas Pannampu",
+    name: "Masjid Baitul Aqsha",
     address: {
-      street: "Jl. Tinumbu lorong.165 c Belakang Pasar Pannampu",
+      street: "Jl. Sungai Tangka",
       geo: {
-        lat: "-5.115540",
-        lng: "119.425119",
+        lat: "-5.144434",
+        lng: "119.416381",
       },
     },
     phone: "-",
-    picture: "-",
+    picture: "Masjid_Baitul_Aqsha.jpeg",
   },
   {
     id: 3,
@@ -36,7 +36,7 @@ export const masjid = [
       },
     },
     phone: "-",
-    picture: "-",
+    picture: "Masjid_Agung_45.jpg",
   },
   {
     id: 4,
@@ -49,7 +49,7 @@ export const masjid = [
       },
     },
     phone: "085205050999",
-    picture: "-",
+    picture: "Masjid_Khadijah_Sudiang.jpg",
   },
   {
     id: 5,
@@ -63,7 +63,7 @@ export const masjid = [
       },
     },
     phone: "-",
-    picture: "-",
+    picture: "Masjid_Ar-Risalah.jpg",
   },
   {
     id: 6,
@@ -76,7 +76,7 @@ export const masjid = [
       },
     },
     phone: "-",
-    picture: "-",
+    picture: "Masjid_Nurul_Bahri.jpg",
   },
   {
     id: 7,
@@ -89,7 +89,7 @@ export const masjid = [
       },
     },
     phone: "085299956345 (Ikhsan), 08135500156 (Pak Rusdi)",
-    picture: "-",
+    picture: "Mushollah_Fakultas_Kedokteran_dan_Ilmu_Kedokteran_Kampus_II_Uin_Alauddin_Samata.jpg",
   },
   {
     id: 8,
@@ -102,7 +102,7 @@ export const masjid = [
       },
     },
     phone: "082347770632 (Hasrullah),085395455156 (Supriadi)",
-    picture: "-",
+    picture: "Mushollah_Trans_Studio_Mall.jpg",
   },
   {
     id: 9,
@@ -115,11 +115,11 @@ export const masjid = [
       },
     },
     phone: "082349561546",
-    picture: "-",
+    picture: "Masjid_Nurul_Falah_Pari'risi.jpg",
   },
   {
     id: 10,
-    name: "Masjid Baitul",
+    name: "Masjid Baitul Karim",
     address: {
       street: "Jl. Lasinrang",
       geo: {
@@ -128,34 +128,33 @@ export const masjid = [
       },
     },
     phone: "082394741414",
-    picture: "-",
+    picture: "Masjid_Baitul_Karim.jpg",
   },
   {
     id: 11,
-    name: "Masjid Graha Jannah",
+    name: "Masjid Amirul Mukminin",
     address: {
-      street:
-        " Jl. Sultan Alauddin. Komp. Perumahan Graha Modern Jaya, Depan Brimob",
+      street: "Jl. Penghibur No.289",
       geo: {
-        lat: "-5.171103",
-        lng: "119.423916",
+        lat: "-5.146769",
+        lng: "119.408005",
       },
     },
     phone: "08991887777",
-    picture: "-",
+    picture: "Masjid_Amirul_Mukminin.jpeg",
   },
   {
     id: 12,
-    name: "Mushollah Royal Apartemen (Belakang Ramayana Pettarani)",
+    name: "Masjid Maradekaya",
     address: {
-      street: "-",
+      street: "Jl. G. Salahutu",
       geo: {
-        lat: "-5.153322",
-        lng: "119.438928",
+        lat: "-5.140350",
+        lng: "119.423202",
       },
     },
     phone: "-",
-    picture: "-",
+    picture: "Masjid_Maradekaya.jpeg",
   },
   {
     id: 13,
@@ -168,11 +167,11 @@ export const masjid = [
       },
     },
     phone: "089687156736, 085824821741",
-    picture: "-",
+    picture: "Masjid_Baiturrahim.jpg",
   },
   {
     id: 14,
-    name: "Masjid Daarul Falah",
+    name: "Masjid Dar Al-Falah",
     address: {
       street: "Jl. Pampang 4 No. 150, Belakang Rusunawa UMI",
       geo: {
@@ -181,7 +180,7 @@ export const masjid = [
       },
     },
     phone: "082190655492 (Akh Muhammad), 082193188713 (Abu Waqi)",
-    picture: "-",
+    picture: "Masjid_Dar_Al-Falah.jpg",
   },
   {
     id: 15,
@@ -194,33 +193,33 @@ export const masjid = [
       },
     },
     phone: "082349981945 (Tri Abu Zakariyyah), 082344666103 (Akbar)",
-    picture: "-",
+    picture: "Masjid_Babus_Salam.jpg",
   },
   {
     id: 16,
-    name: "Mushollah Al Haudh Ratulangi",
+    name: "Masjid Nurul Wathan",
     address: {
-      street: "Jl. Ratulangi No.72, Samping Toko Agung",
+      street: "Jl. Baronang No.32",
       geo: {
-        lat: "-5.154109",
-        lng: "119.416005",
+        lat: "-5.136388",
+        lng: "119.424011",
       },
     },
     phone: "082199116067",
-    picture: "-",
+    picture: "Masjid_Nurul_Wathan.jpeg",
   },
   {
     id: 17,
-    name: "Masjid Nurul Iman",
+    name: "Masjid Nurul Iman Batua",
     address: {
-      street: "Jl. Batua Raya No.129",
+      street: "Jl. Batua Raya",
       geo: {
         lat: "-5.156510",
         lng: "119.458428",
       },
     },
     phone: "081342351283 (Akhiruddin), 081355929448 (Syahrul)",
-    picture: "-",
+    picture: "Masjid_Nurul_Iman_Batua.jpg",
   },
   {
     id: 18,
@@ -233,7 +232,7 @@ export const masjid = [
       },
     },
     phone: "085211627969",
-    picture: "-",
+    picture: "Masjid_Darur_Rahmah.jpg",
   },
   {
     id: 19,
@@ -245,7 +244,7 @@ export const masjid = [
         lng: "119.509886",
       },
     },
-    phone: "",
-    picture: "-",
+    phone: "-",
+    picture: "Masjid_Jannatul_Firdaus.jpg",
   },
 ];
