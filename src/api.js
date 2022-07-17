@@ -16,6 +16,11 @@ router.get("/ustadz/:limit", (req, res) => {
   res.json(ustadz.slice(0, req.params.limit));
 });
 
+router.get("/ustadz-by-id/:id", (req, res) => {
+  const data = ustadz.find((x) => x.id === parseInt(req.params.id));
+  res.json(data);
+});
+
 router.get("/talim", (req, res) => {
   res.json(talim);
 });
@@ -53,6 +58,11 @@ router.get("/talim-mendatang/:hari/:limit", (req, res) => {
   const data = talim
     .filter((x) => x.hari === hari[c1] || x.hari === hari[c2])
     .slice(0, req.params.limit);
+  res.json(data);
+});
+
+router.get("/talim-by-id/:id", (req, res) => {
+  const data = talim.find((x) => x.id === parseInt(req.params.id));
   res.json(data);
 });
 
