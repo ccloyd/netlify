@@ -12,6 +12,15 @@ router.get("/ustadz", (req, res) => {
   res.json(ustadz);
 });
 
+router.get("/ustadz/:limit", (req, res) => {
+  res.json(ustadz.slice(0, req.params.limit));
+});
+
+router.get("/ustadz-by-id/:id", (req, res) => {
+  const data = ustadz.find((x) => x.id === parseInt(req.params.id));
+  res.json(data);
+});
+
 router.get("/talim", (req, res) => {
   res.json(talim);
 });
@@ -25,12 +34,35 @@ router.get("/talim/:hari", (req, res) => {
   res.json(data);
 });
 
+router.get("/talim/:hari/:limit", (req, res) => {
+  const data = talim
+    .filter((x) => x.hari === req.params.hari)
+    .slice(0, req.params.limit);
+  res.json(data);
+});
+
 router.get("/talim-mendatang/:hari", (req, res) => {
   const hari = ["senin", "selasa", "rabu", "kamis", "jumat", "sabtu", "minggu"];
   const idxHari = hari.indexOf(req.params.hari);
   const c1 = (idxHari + 1) % 7;
   const c2 = (idxHari + 2) % 7;
   const data = talim.filter((x) => x.hari === hari[c1] || x.hari === hari[c2]);
+  res.json(data);
+});
+
+router.get("/talim-mendatang/:hari/:limit", (req, res) => {
+  const hari = ["senin", "selasa", "rabu", "kamis", "jumat", "sabtu", "minggu"];
+  const idxHari = hari.indexOf(req.params.hari);
+  const c1 = (idxHari + 1) % 7;
+  const c2 = (idxHari + 2) % 7;
+  const data = talim
+    .filter((x) => x.hari === hari[c1] || x.hari === hari[c2])
+    .slice(0, req.params.limit);
+  res.json(data);
+});
+
+router.get("/talim-by-id/:id", (req, res) => {
+  const data = talim.find((x) => x.id === parseInt(req.params.id));
   res.json(data);
 });
 
