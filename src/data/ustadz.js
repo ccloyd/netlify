@@ -11,6 +11,7 @@ export const ustadz = [
         tempat: "Masjid Luqmanul Hakim",
         hari: "senin",
         jam: "18:30",
+        pic: "https://ik.imagekit.io/cloyd/ta_lim/Kitab_Tauhid_yiAhOHZ8r7.jpg",
       },
       {
         id: 12,
@@ -18,6 +19,7 @@ export const ustadz = [
         tempat: "Masjid Baitul Aqsha",
         hari: "rabu",
         jam: "18:30",
+        pic: "https://ik.imagekit.io/cloyd/ta_lim/Matan_Abu_Syuja__YaN2HTX_W4.jpg",
       },
       {
         id: 16,
@@ -25,6 +27,7 @@ export const ustadz = [
         tempat: "Masjid Ar-Risalah",
         hari: "kamis",
         jam: "16:00",
+        pic: "https://ik.imagekit.io/cloyd/ta_lim/Kitabul_Jami_R9wsqaohCv.jpg",
       },
     ],
   },
@@ -40,6 +43,7 @@ export const ustadz = [
         tempat: "Masjid Baitul Aqsha",
         hari: "senin",
         jam: "18:30",
+        pic: "https://ik.imagekit.io/cloyd/ta_lim/Kitab_Syahrussunnah_qSfTn_Sgr.jpg",
       },
       {
         id: 7,
@@ -47,6 +51,7 @@ export const ustadz = [
         tempat: "Masjid Nurul Bahri",
         hari: "selasa",
         jam: "18:30",
+        pic: "https://ik.imagekit.io/cloyd/ta_lim/Kitab_Ad_Daa_wa_Da_Waa_Hj-pxMvsL.jpg",
       },
     ],
   },
@@ -62,6 +67,7 @@ export const ustadz = [
         tempat: "Masjid Khadijah Sudiang",
         hari: "jumat",
         jam: "18:30",
+        pic: "https://ik.imagekit.io/cloyd/ta_lim/Fiqih_Ibadah_-bVkOzEetE.jpg",
       },
       {
         id: 24,
@@ -69,6 +75,7 @@ export const ustadz = [
         tempat: "Masjid Luqmanul Hakim",
         hari: "sabtu",
         jam: "18:30",
+        pic: "https://ik.imagekit.io/cloyd/ta_lim/Al_Aqidah_Al_Wasithiyah_zEz0DFbFpd.jpg",
       },
     ],
   },
@@ -84,6 +91,7 @@ export const ustadz = [
         tempat: "Masjid Luqmanul Hakim",
         hari: "jumat",
         jam: "18:30",
+        pic: "https://ik.imagekit.io/cloyd/ta_lim/Mukhtashor_Minhajil_Qoshidin_V8zQ9cZ7D.jpg",
       },
     ],
   },
@@ -99,6 +107,7 @@ export const ustadz = [
         tempat: "Mushollah Fakultas Kedokteran dan Ilmu Kedokteran Kampus II Uin Alauddin Samata",
         hari: "rabu",
         jam: "16:00",
+        pic: "https://ik.imagekit.io/cloyd/ta_lim/Syarah_Qasidah_Al_Imam_Al_Jurjani_KUOr_3o_uJ.jpg",
       },
       {
         id: 13,
@@ -106,6 +115,7 @@ export const ustadz = [
         tempat: "Masjid Baitul Karim",
         hari: "rabu",
         jam: "18:30",
+        pic: "https://ik.imagekit.io/cloyd/ta_lim/Fathul_Majid_xX_qsbkLR.jpg",
       },
       {
         id: 18,
@@ -113,6 +123,7 @@ export const ustadz = [
         tempat: "Masjid Baiturrahim",
         hari: "jumat",
         jam: "18:30",
+        pic: "https://ik.imagekit.io/cloyd/ta_lim/Fiqih_Ibadah_-bVkOzEetE.jpg",
       },
       {
         id: 31,
@@ -120,6 +131,7 @@ export const ustadz = [
         tempat: "Masjid Khadijah Sudiang",
         hari: "minggu",
         jam: "18:30",
+        pic: "https://ik.imagekit.io/cloyd/ta_lim/Kajian_Aqidah_gXq2PxludZ.jpg",
       },
     ],
   },
@@ -135,6 +147,7 @@ export const ustadz = [
         tempat: "Masjid Ar-Risalah",
         hari: "selasa",
         jam: "16:00",
+        pic: "https://ik.imagekit.io/cloyd/ta_lim/Kitab_Tauhid_As_Shogir_ImkqbdaQd.jpg",
       },
     ],
   },
@@ -150,6 +163,7 @@ export const ustadz = [
         tempat: "Masjid Agung 45",
         hari: "senin",
         jam: "18:30",
+        pic: "https://ik.imagekit.io/cloyd/ta_lim/Syarah_Al_Arba_in_An_Nawawiah_7_HiGzyBwF.jpg",
       },
       {
         id: 26,
@@ -157,6 +171,7 @@ export const ustadz = [
         tempat: "Masjid Nurul Iman Batua",
         hari: "minggu",
         jam: "16:00",
+        pic: "https://ik.imagekit.io/cloyd/ta_lim/Tsalatsatul_Ushul_HSUBAUhCvX.jpg",
       },
       {
         id: 28,
@@ -164,6 +179,7 @@ export const ustadz = [
         tempat: "Masjid Jannatul Firdaus",
         hari: "minggu",
         jam: "09:30",
+        pic: "https://ik.imagekit.io/cloyd/ta_lim/Ushulus_Sunnah_sBSIiVHYdB.jpg",
       },
     ],
   },
@@ -179,6 +195,7 @@ export const ustadz = [
         tempat: "Masjid Babus Salam",
         hari: "jumat",
         jam: "18:30",
+        pic: "https://ik.imagekit.io/cloyd/ta_lim/Syarh_Manzhumah_Mimiyah_rZfhZZJiA.png",
       },
       {
         id: 25,
@@ -186,6 +203,7 @@ export const ustadz = [
         tempat: "Masjid Nurul Wathan",
         hari: "minggu",
         jam: "16:00",
+        pic: "https://ik.imagekit.io/cloyd/ta_lim/Tsalatsatul_Ushul_HSUBAUhCvX.jpg",
       },
     ],
   },
@@ -201,6 +219,7 @@ export const ustadz = [
         tempat: "Masjid Luqmanul Hakim",
         hari: "senin",
         jam: "18:30",
+        pic: "https://ik.imagekit.io/cloyd/ta_lim/Kitab_Minhajus_Salikin_wa_Taudhihul_Fiqhi_fid_Diin_OnOe2vUS8.jpg",
       },
       {
         id: 14,
@@ -208,6 +227,7 @@ export const ustadz = [
         tempat: "Masjid Khadijah Sudiang",
         hari: "rabu",
         jam: "18:30",
+        pic: "https://ik.imagekit.io/cloyd/ta_lim/Adab_Menyikapi_Perselisihan_P_kauf5bwe.jpg",
       },
       {
         id: 20,
@@ -215,6 +235,7 @@ export const ustadz = [
         tempat: "Masjid Maradekaya",
         hari: "jumat",
         jam: "18:30",
+        pic: "https://ik.imagekit.io/cloyd/ta_lim/50_Hadits_Pondasi_Islam_SOJK9jvoJU.jpg",
       },
       {
         id: 21,
@@ -222,6 +243,7 @@ export const ustadz = [
         tempat: "Masjid Dar Al-Falah",
         hari: "jumat",
         jam: "18:30",
+        pic: "https://ik.imagekit.io/cloyd/ta_lim/Kitab_Ahkam_Al_Udhiyah_wa_Adz_Dzakah_YB871OUgN.jpg",
       },
       {
         id: 30,
@@ -229,6 +251,7 @@ export const ustadz = [
         tempat: "Masjid Khadijah Sudiang",
         hari: "minggu",
         jam: "09:00",
+        pic: "https://ik.imagekit.io/cloyd/ta_lim/Tafsir_dan_Hadits_Pilihan_Tematik_iXBd6wSQh.jpg",
       },
     ],
   },
@@ -244,6 +267,7 @@ export const ustadz = [
         tempat: "Masjid Ar-Risalah",
         hari: "rabu",
         jam: "12:30",
+        pic: "https://ik.imagekit.io/cloyd/ta_lim/Kitab_Umdatul_Fiqh_1wKik3ozOD.jpg",
       },
       {
         id: 11,
@@ -251,6 +275,7 @@ export const ustadz = [
         tempat: "Masjid Nurul Falah Pari'risi",
         hari: "rabu",
         jam: "18:30",
+        pic: "https://ik.imagekit.io/cloyd/ta_lim/Riyadhus_Sholihin_SL0OI1wm2.jpg",
       },
       {
         id: 27,
@@ -258,6 +283,7 @@ export const ustadz = [
         tempat: "Masjid Darur Rahmah",
         hari: "minggu",
         jam: "18:30",
+        pic: "https://ik.imagekit.io/cloyd/ta_lim/Shahih_Fiqh_As_Sunnah_Jni3CDbcs.jpeg",
       },
     ],
   },
@@ -273,6 +299,7 @@ export const ustadz = [
         tempat: "Masjid Amirul Mukminin",
         hari: "kamis",
         jam: "16:00",
+        pic: "https://ik.imagekit.io/cloyd/ta_lim/Pembahasan_Sholat_c5c_da_Sf.jpg",
       },
     ],
   },
@@ -288,6 +315,7 @@ export const ustadz = [
         tempat: "Masjid Khadijah Sudiang",
         hari: "senin",
         jam: "18:30",
+        pic: "https://ik.imagekit.io/cloyd/ta_lim/Mengenal_Nama-Nama_dan_Sifat-Sifat_Allah_XMZGrQAeA.jpg",
       },
       {
         id: 10,
@@ -295,6 +323,7 @@ export const ustadz = [
         tempat: "Mushollah Trans Studio Mall",
         hari: "rabu",
         jam: "12:30",
+        pic: "https://ik.imagekit.io/cloyd/ta_lim/Sifat_Sholat_Nabi_yLGZ6zm5G.jpg",
       },
       {
         id: 17,
@@ -302,6 +331,7 @@ export const ustadz = [
         tempat: "Masjid Maradekaya",
         hari: "kamis",
         jam: "18:30",
+        pic: "https://ik.imagekit.io/cloyd/ta_lim/Al_Aqidah_Al_Wasithiyah_zEz0DFbFpd.jpg",
       },
       {
         id: 29,
@@ -309,6 +339,7 @@ export const ustadz = [
         tempat: "Masjid Jannatul Firdaus",
         hari: "minggu",
         jam: "11:00",
+        pic: "https://ik.imagekit.io/cloyd/ta_lim/Fiqih_Thaharah_LOs345_0XV.jpg",
       },
     ],
   },
