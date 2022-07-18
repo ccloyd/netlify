@@ -101,7 +101,7 @@ export const masjid = [
         lng: "119.394276",
       },
     },
-    phone: "082347770632 (Hasrullah),085395455156 (Supriadi)",
+    phone: "082347770632 (Hasrullah), 085395455156 (Supriadi)",
     picture: "https://ik.imagekit.io/cloyd/Mushollah_Trans_Studio_Mall_Jbf31-bIZ.jpg",
   },
   {
