@@ -6,6 +6,10 @@ export const talim = [
     data_tempat: {
         id: "1",
         name: "Masjid Luqmanul Hakim",
+        geo: {
+          lat: "-5.166060",
+          lng: "119.474049",
+        },
         phone: "081347730863 (Abu Fadhil)"},
         picture: "https://ik.imagekit.io/cloyd/Masjid_Luqmanul_Hakim_Uq-JMSDakD.jpg",
     waktu: "18:30",
@@ -22,6 +26,10 @@ export const talim = [
     data_tempat: {
         id: "1",
         name: "Masjid Luqmanul Hakim",
+        geo: {
+          lat: "-5.166060",
+          lng: "119.474049",
+        },
         phone: "081347730863 (Abu Fadhil)"},
         picture: "https://ik.imagekit.io/cloyd/Masjid_Luqmanul_Hakim_Uq-JMSDakD.jpg",
     hari: "senin",
@@ -38,6 +46,10 @@ export const talim = [
     data_tempat: {
         id: "2",
         name: "Masjid Baitul Aqsha",
+        geo: {
+          lat: "-5.144434",
+          lng: "119.416381",
+        },
         phone: "-"},
         picture: "https://ik.imagekit.io/cloyd/Masjid_Baitul_Aqsha_1947QnJuII.jpeg",
     hari: "senin",
@@ -54,6 +66,10 @@ export const talim = [
     data_tempat: {
         id: "3",
         name: "Masjid Agung 45",
+        geo: {
+          lat: "-5.139160",
+          lng: "119.444969",
+        },
         phone: "-"},
         picture: "https://ik.imagekit.io/cloyd/Masjid_Agung_45_m9GxLzom3G.jpg",
     hari: "senin",
@@ -70,6 +86,10 @@ export const talim = [
     data_tempat: {
         id: "4",
         name: "Masjid Khadijah Sudiang",
+        geo: {
+          lat: "-5.084417",
+          lng: "119.530343",
+        },
         phone: "085205050999"},
         picture: "https://ik.imagekit.io/cloyd/Masjid_Khadijah_Sudiang_Ne15RgQCO.jpg",
     hari: "senin",
@@ -86,6 +106,10 @@ export const talim = [
     data_tempat: {
         id: "5",
         name: "Masjid Ar-Risalah",
+        geo: {
+          lat: "-5.164621",
+          lng: "119.434613",
+        },
         phone: "-"},
         picture: "https://ik.imagekit.io/cloyd/Masjid_Ar-Risalah_GfLNlfGu0i.jpg",
     hari: "selasa",
@@ -102,6 +126,10 @@ export const talim = [
     data_tempat: {
         id: "6",
         name: "Masjid Nurul Bahri",
+        geo: {
+          lat: "-5.115801",
+          lng: "119.430449",
+        },
         phone: "-"},
         picture: "https://ik.imagekit.io/cloyd/Masjid_Nurul_Bahri_OaF_t70dZM.jpg",
     hari: "selasa",
@@ -118,6 +146,10 @@ export const talim = [
     data_tempat: {
         id: "7",
         name: "Mushollah Fakultas Kedokteran dan Ilmu Kedokteran Kampus II Uin Alauddin Samata",
+        geo: {
+          lat: "-5.205107",
+          lng: "119.499336",
+        },
         phone: "085299956345 (Ikhsan), 08135500156 (Pak Rusdi)"},
         picture: "https://ik.imagekit.io/cloyd/Mushollah_Fakultas_Kedokteran_dan_Ilmu_Kedokteran_Kampus_II_Uin_Alauddin_Samata__b6IiyXiLm.jpg",
     hari: "rabu",
@@ -134,6 +166,10 @@ export const talim = [
     data_tempat: {
         id: "5",
         name: "Masjid Ar-Risalah",
+        geo: {
+          lat: "-5.164621",
+          lng: "119.434613",
+        },
         phone: "-"},
         picture: "https://ik.imagekit.io/cloyd/Masjid_Ar-Risalah_GfLNlfGu0i.jpg",
     hari: "rabu",
@@ -150,6 +186,10 @@ export const talim = [
     data_tempat: {
         id: "8",
         name: "Mushollah Trans Studio Mall",
+        geo: {
+          lat: "-5.160338",
+          lng: "119.394276",
+        },
         phone: "082347770632 (Hasrullah), 085395455156 (Supriadi)"},
         picture: "https://ik.imagekit.io/cloyd/Mushollah_Trans_Studio_Mall_Jbf31-bIZ.jpg",
     hari: "rabu",
@@ -166,6 +206,10 @@ export const talim = [
     data_tempat: {
         id: "9",
         name: "Masjid Nurul Falah Pari'risi",
+        geo: {
+          lat: "-5.432430",
+          lng: "119.437243",
+        },
         phone: "082349561546"},
         picture: "https://ik.imagekit.io/cloyd/Masjid_Nurul_Falah_Pari_risi_xh3dl-zjwd.jpg",
     hari: "rabu",
@@ -182,6 +226,10 @@ export const talim = [
     data_tempat: {
         id: "2",
         name: "Masjid Baitul Aqsha",
+        geo: {
+          lat: "-5.144434",
+          lng: "119.416381",
+        },
         phone: "-"},
         picture: "https://ik.imagekit.io/cloyd/Masjid_Baitul_Aqsha_1947QnJuII.jpeg",
     hari: "rabu",
@@ -198,6 +246,10 @@ export const talim = [
     data_tempat: {
         id: "10",
         name: "Masjid Baitul Karim",
+        geo: {
+          lat: "-5.145936",
+          lng: "119.413949",
+        },
         phone: "-"},
         picture: "https://ik.imagekit.io/cloyd/Masjid_Baitul_Karim_aIB8mFTofD.jpg",
     hari: "rabu",
@@ -214,6 +266,10 @@ export const talim = [
     data_tempat: {
         id: "4",
         name: "Masjid Khadijah Sudiang",
+        geo: {
+          lat: "-5.084417",
+          lng: "119.530343",
+        },
         phone: "085205050999"},
         picture: "https://ik.imagekit.io/cloyd/Masjid_Khadijah_Sudiang_Ne15RgQCO.jpg",
     hari: "rabu",
@@ -230,6 +286,10 @@ export const talim = [
     data_tempat: {
         id: "11",
         name: "Masjid Amirul Mukminin",
+        geo: {
+          lat: "-5.146769",
+          lng: "119.408005",
+        },
         phone: "08991887777"},
         picture: "https://ik.imagekit.io/cloyd/Masjid_Amirul_Mukminin_0cMS7xHQp4.jpeg",
     hari: "kamis",
@@ -246,6 +306,10 @@ export const talim = [
     data_tempat: {
         id: "5",
         name: "Masjid Ar-Risalah",
+        geo: {
+          lat: "-5.164621",
+          lng: "119.434613",
+        },
         phone: "-"},
         picture: "https://ik.imagekit.io/cloyd/Masjid_Ar-Risalah_GfLNlfGu0i.jpg",
     hari: "kamis",
@@ -262,6 +326,10 @@ export const talim = [
     data_tempat: {
         id: "12",
         name: "Masjid Maradekaya",
+        geo: {
+          lat: "-5.140350",
+          lng: "119.423202",
+        },
         phone: "-"},
         picture: "https://ik.imagekit.io/cloyd/Masjid_Maradekaya_5aMTKwQ5CN.jpeg",
     hari: "kamis",
@@ -278,6 +346,10 @@ export const talim = [
     data_tempat: {
         id: "13",
         name: "Masjid Baiturrahim",
+        geo: {
+          lat: "-5.185778",
+          lng: "119.400505",
+        },
         phone: "089687156736, 085824821741"},
         picture: "https://ik.imagekit.io/cloyd/Masjid_Baiturrahim_nKSS3wOf6Z.jpg",
     hari: "jumat",
@@ -294,6 +366,10 @@ export const talim = [
     data_tempat: {
         id: "1",
         name: "Masjid Luqmanul Hakim",
+        geo: {
+          lat: "-5.166060",
+          lng: "119.474049",
+        },
         phone: "081347730863 (Abu Fadhil)"},
         picture: "https://ik.imagekit.io/cloyd/Masjid_Luqmanul_Hakim_Uq-JMSDakD.jpg",
     hari: "jumat",
@@ -310,6 +386,10 @@ export const talim = [
     data_tempat: {
         id: "12",
         name: "Masjid Maradekaya",
+        geo: {
+          lat: "-5.140350",
+          lng: "119.423202",
+        },
         phone: "-"},
         picture: "https://ik.imagekit.io/cloyd/Masjid_Maradekaya_5aMTKwQ5CN.jpeg",
     hari: "jumat",
@@ -326,6 +406,10 @@ export const talim = [
     data_tempat: {
         id: "14",
         name: "Masjid Dar Al-Falah",
+        geo: {
+          lat: "-5.134661",
+          lng: "119.453543",
+        },
         phone: "082190655492 (Akh Muhammad), 082193188713 (Abu Waqi)"},
         picture: "https://ik.imagekit.io/cloyd/Masjid_Dar_Al-Falah_cIxTorucD9.jpg",
     hari: "jumat",
@@ -342,6 +426,10 @@ export const talim = [
     data_tempat: {
         id: "15",
         name: "Masjid Babus Salam",
+        geo: {
+          lat: "-5.116604",
+          lng: "119.420064",
+        },
         phone: "-"},
         picture: "https://ik.imagekit.io/cloyd/Masjid_Babus_Salam_SW5q7yV9KY.jpg",
     hari: "jumat",
@@ -358,6 +446,10 @@ export const talim = [
     data_tempat: {
         id: "4",
         name: "Masjid Khadijah Sudiang",
+        geo: {
+          lat: "-5.084417",
+          lng: "119.530343",
+        },
         phone: "085205050999"},
         picture: "https://ik.imagekit.io/cloyd/Masjid_Khadijah_Sudiang_Ne15RgQCO.jpg",
     hari: "jumat",
@@ -374,6 +466,10 @@ export const talim = [
     data_tempat: {
         id: "1",
         name: "Masjid Luqmanul Hakim",
+        geo: {
+          lat: "-5.166060",
+          lng: "119.474049",
+        },
         phone: "081347730863 (Abu Fadhil)"},
         picture: "https://ik.imagekit.io/cloyd/Masjid_Luqmanul_Hakim_Uq-JMSDakD.jpg",
     hari: "sabtu",
@@ -390,6 +486,10 @@ export const talim = [
     data_tempat: {
         id: "16",
         name: "Masjid Nurul Wathan",
+        geo: {
+          lat: "-5.136388",
+          lng: "119.424011",
+        },
         phone: "082199116067"},
         picture: "https://ik.imagekit.io/cloyd/Masjid_Nurul_Wathan_lgc-Eo2Y5Y.jpeg",
     hari: "minggu",
@@ -406,6 +506,10 @@ export const talim = [
     data_tempat: {
         id: "17",
         name: "Masjid Nurul Iman Batua",
+        geo: {
+          lat: "-5.156510",
+          lng: "119.458428",
+        },
         phone: "081342351283 (Akhiruddin), 081355929448 (Syahrul)"},
         picture: "https://ik.imagekit.io/cloyd/Masjid_Nurul_Iman_Batua_aJXk9by5Cr.jpg",
     hari: "minggu",
@@ -422,6 +526,10 @@ export const talim = [
     data_tempat: {
         id: "18",
         name: "Masjid Darur Rahmah",
+        geo: {
+          lat: "-5.128010",
+          lng: "119.416642",
+        },
         phone: "085211627969"},
         picture: "https://ik.imagekit.io/cloyd/Masjid_Darur_Rahmah_xENM9sJ1Q-.jpg",
     hari: "minggu",
@@ -438,6 +546,10 @@ export const talim = [
     data_tempat: {
         id: "19",
         name: "Masjid Jannatul Firdaus",
+        geo: {
+          lat: "-5.141654",
+          lng: "119.509886",
+        },
         phone: "-"},
         picture: "https://ik.imagekit.io/cloyd/Masjid_Jannatul_Firdaus_iOTI4zp4MZ.jpg",
     hari: "minggu",
@@ -470,6 +582,10 @@ export const talim = [
     data_tempat: {
         id: "4",
         name: "Masjid Khadijah Sudiang",
+        geo: {
+          lat: "-5.084417",
+          lng: "119.530343",
+        },
         phone: "085205050999"},
         picture: "https://ik.imagekit.io/cloyd/Masjid_Khadijah_Sudiang_Ne15RgQCO.jpg",
     hari: "minggu",
@@ -486,6 +602,10 @@ export const talim = [
     data_tempat: {
         id: "4",
         name: "Masjid Khadijah Sudiang",
+        geo: {
+          lat: "-5.084417",
+          lng: "119.530343",
+        },
         phone: "085205050999"},
         picture: "https://ik.imagekit.io/cloyd/Masjid_Khadijah_Sudiang_Ne15RgQCO.jpg",
     hari: "minggu",
