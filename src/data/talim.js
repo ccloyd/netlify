@@ -18,6 +18,7 @@ export const talim = [
         id: "9",
         name: "Ustadz Ruwaifi Rahmat"},
     link: "https://us04web.zoom.us/j/76828533243?pwd=ZaD2goeG6J7B5viUw1Z2SWMkXjcqNb.1",
+    tipe_link: "ZoomMeet"
   },
   {
     id: 2,
@@ -38,6 +39,7 @@ export const talim = [
         id: "1",
         name: "Ustadz Abdul Mu'thi"},
   	link: "https://us04web.zoom.us/j/76828533243?pwd=ZaD2goeG6J7B5viUw1Z2SWMkXjcqNb.1",
+    tipe_link: "ZoomMeet"
   },
   {
     id: 3,
@@ -58,6 +60,7 @@ export const talim = [
         id: "2",
         name: "Ustadz Ahmad Alfian"},
 	  link: "https://meet.google.com/uot-uxdg-xtd",
+    tipe_link: "GoogleMeet"
   },
   {
     id: 4,
@@ -78,6 +81,7 @@ export const talim = [
         id: "7",
         name: "Ustadz Muhammad Rijal"},
 	  link: "https://us04web.zoom.us/j/71930521299?pwd=eCaffOS6Pdrl0aG6-vKJQna3vWHPoI.1",
+    tipe_link: "ZoomMeet"
   },
   {
     id: 5,
@@ -98,6 +102,7 @@ export const talim = [
         id: "12",
         name: "Ustadz Abu Abdirrahman Thariq"},
 	  link: "https://meet.google.com/ibp-mpwv-eir",
+    tipe_link: "GoogleMeet"
   },
   {
     id: 6,
@@ -118,6 +123,7 @@ export const talim = [
         id: "6",
         name: "Ustadz Harits Marekar"},
 	  link: "https://us04web.zoom.us/j/71489767734?pwd=ztzj9eHCe2JF_BBF3gQMmUm9bLCps4.1",
+    tipe_link: "ZoomMeet"
   },
   {
     id: 7,
@@ -138,6 +144,7 @@ export const talim = [
         id: "2",
         name: "Ustadz Ahmad Alfian"},
 	  link: "https://us04web.zoom.us/j/76822720719?pwd=z2eGaVxUdOmqtb9jdh0BTXWs9AnnYQ.1",
+    tipe_link: "ZoomMeet"
   },
   {
     id: 8,
@@ -158,6 +165,7 @@ export const talim = [
         id: "5",
         name: "Ustadz Ashari Asri"},
 	  link: "https://us04web.zoom.us/j/77846921804?pwd=j_IMgJbZmhxH8eJZg6-Qyt8eL175AA.1",
+    tipe_link: "ZoomMeet"
   },
   {
     id: 9,
@@ -178,6 +186,7 @@ export const talim = [
         id: "10",
         name: "Ustadz Sa'ad Baisa"},
 	  link: "https://us04web.zoom.us/j/71489767734?pwd=ztzj9eHCe2JF_BBF3gQMmUm9bLCps4.1",
+    tipe_link: "ZoomMeet"
   },
   {
     id: 10,
@@ -198,6 +207,7 @@ export const talim = [
         id: "12",
         name: "Ustadz Abu Abdirrahman Thariq"},
 	  link: "https://us04web.zoom.us/j/78285786241?pwd=moJKMtJAA3pazL_IEOTJrlKcuME3Lo.1",
+    tipe_link: "ZoomMeet"
   },
   {
     id: 11,
@@ -218,6 +228,7 @@ export const talim = [
         id: "10",
         name: "Ustadz Sa'ad Baisa"},
     link: "https://us04web.zoom.us/j/77214258761?pwd=DD3WWJStTBNtoXgB-Yqh3s31Wzwf-N.1",
+    tipe_link: "ZoomMeet"
   },
   {
     id: 12,
@@ -238,6 +249,7 @@ export const talim = [
         id: "1",
         name: "Ustadz Abdul Mu'thi"},
     link: "https://meet.google.com/uot-uxdg-xtd",
+    tipe_link: "GoogleMeet"
   },
   {
     id: 13,
@@ -258,6 +270,7 @@ export const talim = [
         id: "5",
         name: "Ustadz Ashari Asri"},
     link: "https://us04web.zoom.us/j/73807898069?pwd=L_NpaXhZQpnJ22mFB_gn3TEvgP1ley.1",
+    tipe_link: "ZoomMeet"
   },
   {
     id: 14,
@@ -278,6 +291,7 @@ export const talim = [
         id: "9",
         name: "Ustadz Ruwaifi Rahmat"},
     link: "https://meet.google.com/ibp-mpwv-eir",
+    tipe_link: "GoogleMeet"
   },
   {
     id: 15,
@@ -298,6 +312,7 @@ export const talim = [
         id: "11",
         name: "Ustadz Sarbini"},
     link: "https://us04web.zoom.us/j/73528828499?pwd=o62VlzQGdyDU2ksCB_ZOXhdEpv20gd.1",
+    tipe_link: "ZoomMeet"
   },
   {
     id: 16,
@@ -318,6 +333,7 @@ export const talim = [
         id: "1",
         name: "Ustadz Abdul Mu'thi"},
     link: "https://us04web.zoom.us/j/71489767734?pwd=ztzj9eHCe2JF_BBF3gQMmUm9bLCps4.1",
+    tipe_link: "ZoomMeet"
   },
   {
     id: 17,
@@ -338,6 +354,7 @@ export const talim = [
         id: "12",
         name: "Ustadz Abu Abdirrahman Thariq"},
     link: "https://us04web.zoom.us/j/76974894700?pwd=w77goZUpYgZr5qXQakPAP1EAexv3LU.1",
+    tipe_link: "ZoomMeet"
   },
   {
     id: 18,
@@ -358,6 +375,7 @@ export const talim = [
         id: "5",
         name: "Ustadz Ashari Asri"},
     link: "https://us04web.zoom.us/j/75747135887?pwd=-idbwYpfckfldZmI9069Zn29ySn3bQ.1",
+    tipe_link: "ZoomMeet"
   },
   {
     id: 19,
@@ -378,6 +396,7 @@ export const talim = [
         id: "4",
         name: "Ustadz Ammar"},
     link: "https://us04web.zoom.us/j/76828533243?pwd=ZaD2goeG6J7B5viUw1Z2SWMkXjcqNb.1",
+    tipe_link: "ZoomMeet"
   },
   {
     id: 20,
@@ -398,6 +417,7 @@ export const talim = [
         id: "9",
         name: "Ustadz Ruwaifi Rahmat"},
     link: "https://us04web.zoom.us/j/76974894700?pwd=w77goZUpYgZr5qXQakPAP1EAexv3LU.1",
+    tipe_link: "ZoomMeet"
   },
   {
     id: 21,
@@ -418,6 +438,7 @@ export const talim = [
         id: "9",
         name: "Ustadz Ruwaifi Rahmat"},
     link: "https://meet.google.com/kzz-cuqp-yzm",
+    tipe_link: "GoogleMeet"
   },
   {
     id: 22,
@@ -438,6 +459,7 @@ export const talim = [
         id: "8",
         name: "Ustadz Muhammad Umar As-Sewed"},
     link: "https://us04web.zoom.us/j/75390494912?pwd=vlfc5ruxbaBtO_tE9-TBmFrqTWu0l6.1",
+    tipe_link: "ZoomMeet"
   },
   {
     id: 23,
@@ -458,6 +480,7 @@ export const talim = [
         id: "3",
         name: "Ustadz Ahmad Khodim"},
     link: "https://meet.google.com/ibp-mpwv-eir",
+    tipe_link: "GoogleMeet"
   },
   {
     id: 24,
@@ -478,6 +501,7 @@ export const talim = [
         id: "3",
         name: "Ustadz Ahmad Khodim"},
     link: "https://us04web.zoom.us/j/76828533243?pwd=ZaD2goeG6J7B5viUw1Z2SWMkXjcqNb.1",
+    tipe_link: "ZoomMeet"
   },
   {
     id: 25,
@@ -498,6 +522,7 @@ export const talim = [
         id: "8",
         name: "Ustadz Muhammad Umar As-Sewed"},
     link: "https://us04web.zoom.us/j/73211210053?pwd=aOKjiCq9jAObK7sCm8IPu1obkSyRIg.1",
+    tipe_link: "ZoomMeet"
   },
   {
     id: 26,
@@ -518,6 +543,7 @@ export const talim = [
         id: "7",
         name: "Ustadz Muhammad Rijal"},
     link: "https://meet.google.com/ina-biqr-cuf",
+    tipe_link: "GoogleMeet"
   },
   {
     id: 27,
@@ -538,6 +564,7 @@ export const talim = [
         id: "10",
         name: "Ustadz Sa'ad Baisa"},
     link: "https://us04web.zoom.us/j/72609478175?pwd=i94xD3WsjyOMCvFh6l1ik4iz07LP3Z.1",
+    tipe_link: "ZoomMeet"
   },
   {
     id: 28,
@@ -558,6 +585,7 @@ export const talim = [
         id: "7",
         name: "Ustadz Muhammad Rijal"},
     link: "https://us04web.zoom.us/j/73548232081?pwd=6ELq7qZtJwDNbNSdLpQKB5utmllg6c.1",
+    tipe_link: "ZoomMeet"
   },
   {
     id: 29,
@@ -574,6 +602,7 @@ export const talim = [
         id: "12",
         name: "Ustadz Abu Abdirrahman Thariq"},
     link: "https://us04web.zoom.us/j/73548232081?pwd=6ELq7qZtJwDNbNSdLpQKB5utmllg6c.1",
+    tipe_link: "ZoomMeet"
   },
   {
     id: 30,
@@ -594,6 +623,7 @@ export const talim = [
         id: "9",
         name: "Ustadz Ruwaifi Rahmat"},
     link: "https://meet.google.com/ibp-mpwv-eir",
+    tipe_link: "GoogleMeet"
   },
   {
     id: 31,
@@ -614,5 +644,6 @@ export const talim = [
         id: "5",
         name: "Ustadz Ashari Asri"},
     link: "https://meet.google.com/ibp-mpwv-eir",
+    tipe_link: "GoogleMeet"
   },
 ]
