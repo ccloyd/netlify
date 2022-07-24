@@ -73,13 +73,11 @@ router.get("/masjid/:id", (req, res) => {
 });
 
 router.post("/search-talim", (req, res) => {
-  t1 = parseInt(req.body.starttime.slice(0, 2));
-  t2 = parseInt(req.body.endtime.slice(0, 2));
   const data = talim.filter(
     (x) =>
       x.hari === req.body.day &&
-      parseInt(x.waktu.slice(0, 2)) >= t1 &&
-      parseInt(x.waktu.slice(0, 2)) <= t2
+      x.waktu >= req.body.starttime &&
+      x.waktu <= req.body.endtime
   );
   res.json(data);
 });
