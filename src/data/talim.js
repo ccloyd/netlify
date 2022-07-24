@@ -17,7 +17,7 @@ export const talim = [
     data_ustadz: {
         id: "9",
         name: "Ustadz Ruwaifi Rahmat"},
-    link: "-",
+    link: "https://us04web.zoom.us/j/76828533243?pwd=ZaD2goeG6J7B5viUw1Z2SWMkXjcqNb.1",
   },
   {
     id: 2,
@@ -37,7 +37,7 @@ export const talim = [
 	  data_ustadz: {
         id: "1",
         name: "Ustadz Abdul Mu'thi"},
-  	link: "-",
+  	link: "https://us04web.zoom.us/j/76828533243?pwd=ZaD2goeG6J7B5viUw1Z2SWMkXjcqNb.1",
   },
   {
     id: 3,
@@ -57,7 +57,7 @@ export const talim = [
 	  data_ustadz: {
         id: "2",
         name: "Ustadz Ahmad Alfian"},
-	  link: "-",
+	  link: "https://meet.google.com/uot-uxdg-xtd",
   },
   {
     id: 4,
@@ -77,7 +77,7 @@ export const talim = [
 	  data_ustadz: {
         id: "7",
         name: "Ustadz Muhammad Rijal"},
-	  link: "-",
+	  link: "https://us04web.zoom.us/j/71930521299?pwd=eCaffOS6Pdrl0aG6-vKJQna3vWHPoI.1",
   },
   {
     id: 5,
@@ -97,7 +97,7 @@ export const talim = [
 	  data_ustadz: {
         id: "12",
         name: "Ustadz Abu Abdirrahman Thariq"},
-	  link: "-",
+	  link: "https://meet.google.com/ibp-mpwv-eir",
   },
   {
     id: 6,
@@ -117,7 +117,7 @@ export const talim = [
 	  data_ustadz: {
         id: "6",
         name: "Ustadz Harits Marekar"},
-	  link: "-",
+	  link: "https://us04web.zoom.us/j/71489767734?pwd=ztzj9eHCe2JF_BBF3gQMmUm9bLCps4.1",
   },
   {
     id: 7,
@@ -137,7 +137,7 @@ export const talim = [
 	  data_ustadz: {
         id: "2",
         name: "Ustadz Ahmad Alfian"},
-	  link: "-",
+	  link: "https://us04web.zoom.us/j/76822720719?pwd=z2eGaVxUdOmqtb9jdh0BTXWs9AnnYQ.1",
   },
   {
     id: 8,
@@ -157,7 +157,7 @@ export const talim = [
 	  data_ustadz: {
         id: "5",
         name: "Ustadz Ashari Asri"},
-	  link: "-",
+	  link: "https://us04web.zoom.us/j/77846921804?pwd=j_IMgJbZmhxH8eJZg6-Qyt8eL175AA.1",
   },
   {
     id: 9,
@@ -177,7 +177,7 @@ export const talim = [
 	  data_ustadz: {
         id: "10",
         name: "Ustadz Sa'ad Baisa"},
-	  link: "-",
+	  link: "https://us04web.zoom.us/j/71489767734?pwd=ztzj9eHCe2JF_BBF3gQMmUm9bLCps4.1",
   },
   {
     id: 10,
@@ -197,7 +197,7 @@ export const talim = [
 	  data_ustadz: {
         id: "12",
         name: "Ustadz Abu Abdirrahman Thariq"},
-	  link: "-",
+	  link: "https://us04web.zoom.us/j/78285786241?pwd=moJKMtJAA3pazL_IEOTJrlKcuME3Lo.1",
   },
   {
     id: 11,
@@ -217,7 +217,7 @@ export const talim = [
     data_ustadz: {
         id: "10",
         name: "Ustadz Sa'ad Baisa"},
-    link: "-",
+    link: "https://us04web.zoom.us/j/77214258761?pwd=DD3WWJStTBNtoXgB-Yqh3s31Wzwf-N.1",
   },
   {
     id: 12,
@@ -237,7 +237,7 @@ export const talim = [
     data_ustadz: {
         id: "1",
         name: "Ustadz Abdul Mu'thi"},
-    link: "-",
+    link: "https://meet.google.com/uot-uxdg-xtd",
   },
   {
     id: 13,
@@ -257,7 +257,7 @@ export const talim = [
     data_ustadz: {
         id: "5",
         name: "Ustadz Ashari Asri"},
-    link: "-",
+    link: "https://us04web.zoom.us/j/73807898069?pwd=L_NpaXhZQpnJ22mFB_gn3TEvgP1ley.1",
   },
   {
     id: 14,
@@ -277,7 +277,7 @@ export const talim = [
     data_ustadz: {
         id: "9",
         name: "Ustadz Ruwaifi Rahmat"},
-    link: "-",
+    link: "https://meet.google.com/ibp-mpwv-eir",
   },
   {
     id: 15,
@@ -297,7 +297,7 @@ export const talim = [
     data_ustadz: {
         id: "11",
         name: "Ustadz Sarbini"},
-    link: "-",
+    link: "https://us04web.zoom.us/j/73528828499?pwd=o62VlzQGdyDU2ksCB_ZOXhdEpv20gd.1",
   },
   {
     id: 16,
@@ -317,7 +317,7 @@ export const talim = [
     data_ustadz: {
         id: "1",
         name: "Ustadz Abdul Mu'thi"},
-    link: "-",
+    link: "https://us04web.zoom.us/j/71489767734?pwd=ztzj9eHCe2JF_BBF3gQMmUm9bLCps4.1",
   },
   {
     id: 17,
@@ -337,7 +337,7 @@ export const talim = [
     data_ustadz: {
         id: "12",
         name: "Ustadz Abu Abdirrahman Thariq"},
-    link: "-",
+    link: "https://us04web.zoom.us/j/76974894700?pwd=w77goZUpYgZr5qXQakPAP1EAexv3LU.1",
   },
   {
     id: 18,
@@ -357,7 +357,7 @@ export const talim = [
     data_ustadz: {
         id: "5",
         name: "Ustadz Ashari Asri"},
-    link: "-",
+    link: "https://us04web.zoom.us/j/75747135887?pwd=-idbwYpfckfldZmI9069Zn29ySn3bQ.1",
   },
   {
     id: 19,
@@ -377,7 +377,7 @@ export const talim = [
     data_ustadz: {
         id: "4",
         name: "Ustadz Ammar"},
-    link: "-",
+    link: "https://us04web.zoom.us/j/76828533243?pwd=ZaD2goeG6J7B5viUw1Z2SWMkXjcqNb.1",
   },
   {
     id: 20,
@@ -397,7 +397,7 @@ export const talim = [
     data_ustadz: {
         id: "9",
         name: "Ustadz Ruwaifi Rahmat"},
-    link: "-",
+    link: "https://us04web.zoom.us/j/76974894700?pwd=w77goZUpYgZr5qXQakPAP1EAexv3LU.1",
   },
   {
     id: 21,
@@ -417,7 +417,7 @@ export const talim = [
     data_ustadz: {
         id: "9",
         name: "Ustadz Ruwaifi Rahmat"},
-    link: "-",
+    link: "https://meet.google.com/kzz-cuqp-yzm",
   },
   {
     id: 22,
@@ -437,7 +437,7 @@ export const talim = [
     data_ustadz: {
         id: "8",
         name: "Ustadz Muhammad Umar As-Sewed"},
-    link: "-",
+    link: "https://us04web.zoom.us/j/75390494912?pwd=vlfc5ruxbaBtO_tE9-TBmFrqTWu0l6.1",
   },
   {
     id: 23,
@@ -457,7 +457,7 @@ export const talim = [
     data_ustadz: {
         id: "3",
         name: "Ustadz Ahmad Khodim"},
-    link: "-",
+    link: "https://meet.google.com/ibp-mpwv-eir",
   },
   {
     id: 24,
@@ -477,7 +477,7 @@ export const talim = [
     data_ustadz: {
         id: "3",
         name: "Ustadz Ahmad Khodim"},
-    link: "-",
+    link: "https://us04web.zoom.us/j/76828533243?pwd=ZaD2goeG6J7B5viUw1Z2SWMkXjcqNb.1",
   },
   {
     id: 25,
@@ -497,7 +497,7 @@ export const talim = [
     data_ustadz: {
         id: "8",
         name: "Ustadz Muhammad Umar As-Sewed"},
-    link: "-",
+    link: "https://us04web.zoom.us/j/73211210053?pwd=aOKjiCq9jAObK7sCm8IPu1obkSyRIg.1",
   },
   {
     id: 26,
@@ -517,7 +517,7 @@ export const talim = [
     data_ustadz: {
         id: "7",
         name: "Ustadz Muhammad Rijal"},
-    link: "-",
+    link: "https://meet.google.com/ina-biqr-cuf",
   },
   {
     id: 27,
@@ -537,7 +537,7 @@ export const talim = [
     data_ustadz: {
         id: "10",
         name: "Ustadz Sa'ad Baisa"},
-    link: "-",
+    link: "https://us04web.zoom.us/j/72609478175?pwd=i94xD3WsjyOMCvFh6l1ik4iz07LP3Z.1",
   },
   {
     id: 28,
@@ -557,7 +557,7 @@ export const talim = [
     data_ustadz: {
         id: "7",
         name: "Ustadz Muhammad Rijal"},
-    link: "-",
+    link: "https://us04web.zoom.us/j/73548232081?pwd=6ELq7qZtJwDNbNSdLpQKB5utmllg6c.1",
   },
   {
     id: 29,
@@ -573,7 +573,7 @@ export const talim = [
     data_ustadz: {
         id: "12",
         name: "Ustadz Abu Abdirrahman Thariq"},
-    link: "-",
+    link: "https://us04web.zoom.us/j/73548232081?pwd=6ELq7qZtJwDNbNSdLpQKB5utmllg6c.1",
   },
   {
     id: 30,
@@ -593,7 +593,7 @@ export const talim = [
     data_ustadz: {
         id: "9",
         name: "Ustadz Ruwaifi Rahmat"},
-    link: "-",
+    link: "https://meet.google.com/ibp-mpwv-eir",
   },
   {
     id: 31,
@@ -613,6 +613,6 @@ export const talim = [
     data_ustadz: {
         id: "5",
         name: "Ustadz Ashari Asri"},
-    link: "-",
+    link: "https://meet.google.com/ibp-mpwv-eir",
   },
 ]
