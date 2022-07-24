@@ -1,5 +1,5 @@
 const express = require("express");
-const path = require("path");
+const bodyParser = require("body-parser");
 const serverless = require("serverless-http");
 const { masjid } = require("./data/masjid");
 const { ustadz } = require("./data/ustadz");
@@ -7,6 +7,7 @@ const { talim } = require("./data/talim");
 
 const app = express();
 const router = express.Router();
+app.use(bodyParser.urlencoded({ extended: true }));
 
 router.get("/ustadz", (req, res) => {
   res.json(ustadz);
@@ -71,12 +72,20 @@ router.get("/masjid/:id", (req, res) => {
   res.json(data);
 });
 
+router.post("/search-talim", (req, res) => {
+  const data = talim.filter(
+    (x) =>
+      x.hari === req.body.day &&
+      x.waktu >= req.body.starttime &&
+      x.waktu <= req.body.endtime
+  );
+  res.json(data);
+});
+
 router.get("/", (req, res) => {
   res.json({ welcome: "Ta'lim Finder" });
 });
 
 app.use("/.netlify/functions/api", router);
-
-app.use(express.static(path.join(__dirname, "/public")));
 
 module.exports.handler = serverless(app);
