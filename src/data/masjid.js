@@ -69,7 +69,7 @@ export const masjid = [
     id: 3,
     name: "Masjid Agung 45",
     address: {
-      street: "-",
+      street: "Jl. Urip Sumoharjo No.KM No.4",
       geo: {
         lat: "-5.139160",
         lng: "119.444969",
